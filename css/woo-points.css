@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.woopoints-user-username {
+	font-weight: bold;
+	width:100%;
+}
+
+/* graph */
+.woopoints-graph {
+	height: 320px;
+}
+/* graph legend width fix */
+.woopoints-graph .legend table {
+	width: auto ! important;
+}
+

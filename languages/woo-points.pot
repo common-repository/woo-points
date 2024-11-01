@@ -1,0 +1,287 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2017-02-28 21:09+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: lib/core/class-woo-points-admin.php:341
+#: lib/core/class-woo-points-admin.php:580
+msgid   "Accepted"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:480
+msgid   "Access denied."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:155
+msgid   "Add Points"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:380
+msgid   "An example could be:"
+msgstr  ""
+
+#: lib/core/class-woo-points-widget.php:143
+msgid   "Asc"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:602
+msgid   "Back"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:602
+msgid   "Cancel"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:318
+msgid   "Ceil"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:155
+msgid   "Click to add a Points manually"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:544
+msgid   "Date & Time"
+msgstr  ""
+
+#: lib/core/class-woo-points-shortcodes.php:143
+msgid   "Datetime"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:333
+msgid   "Default points status"
+msgstr  ""
+
+#: lib/core/class-woo-points-widget.php:142
+msgid   "Desc"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:554
+#: lib/core/class-woo-points-shortcodes.php:139
+msgid   "Description"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:391
+msgid   "Display a table with the user points detail."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:390
+msgid   "Display the total user points."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:520
+msgid   "Edit Points"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:447
+msgid   "Email content"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:435
+msgid   "Email subject"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:430
+msgid   "Enable user notifications:"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:304
+msgid   "Ex. If you set 5, then the user gets 5 points for every dollar."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:319
+msgid   "Floor"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:548
+msgid   "Format : YYYY-MM-DD HH:MM:SS"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:169
+#: lib/core/class-woo-points-admin.php:250
+msgid   "General"
+msgstr  ""
+
+#: lib/core/class-woo-points-table.php:239
+msgid   "Mark as Paid"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:518
+msgid   "New Points"
+msgstr  ""
+
+#: lib/core/class-woo-points-shortcodes.php:61
+#: lib/core/class-woo-points-widget.php:76
+msgid   "No users"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:66
+#: lib/core/class-woo-points-admin.php:67
+#: lib/core/class-woo-points-admin.php:417
+#: lib/core/class-woo-points-admin.php:422
+msgid   "Notifications"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:409
+msgid   "Notifications updated."
+msgstr  ""
+
+#: lib/core/class-woo-points-widget.php:131
+msgid   "Number of users to display:"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:56
+#: lib/core/class-woo-points-admin.php:57
+msgid   "Options"
+msgstr  ""
+
+#: lib/core/class-woo-points-woocommerce.php:91
+#, php-format
+msgid   "Order %d"
+msgstr  ""
+
+#: lib/core/class-woo-points-widget.php:140
+msgid   "Order:"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:170
+#: lib/core/class-woo-points-admin.php:293
+msgid   "Orders"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:171
+#: lib/core/class-woo-points-admin.php:377
+msgid   "Pages"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:583
+msgid   "Paid"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:342
+#: lib/core/class-woo-points-admin.php:581
+msgid   "Pending"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:573
+msgid   "Points"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:210
+msgid   "Points Options"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:131
+msgid   "Points Removed"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:108
+msgid   "Points Updated"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:296
+#, php-format
+msgid   "Points every %s"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:253
+msgid   "Points plural label"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:265
+msgid   "Points singular label"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:384
+msgid   "Recent activity"
+msgstr  ""
+
+#: lib/core/class-woo-points-shortcodes.php:145
+msgid   "Ref."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:564
+msgid   "Ref. ID"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:343
+#: lib/core/class-woo-points-admin.php:582
+msgid   "Rejected"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:310
+msgid   "Round type"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:600
+msgid   "Save"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:198
+msgid   "Saved General subsection"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:189
+msgid   "Saved Order subsection"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:388
+msgid   "Shortcodes available."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:587
+#: lib/core/class-woo-points-shortcodes.php:146
+msgid   "Status"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:356
+msgid   "Synchronize points according to the status of the orders."
+msgstr  ""
+
+#: lib/core/class-woo-points-widget.php:124
+msgid   "Title:"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:383
+msgid   "Total points:"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:535
+msgid   "Username"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:110
+msgid   "Username is not valid"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:45
+#: lib/core/class-woo-points-admin.php:46
+msgid   "Woocommerce Points"
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:379
+msgid   "You are free to create your own My Points page using our shortcodes "
+        "available."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:389
+msgid   "You can use these shortcodes in your pages for create My Points "
+        "customer page."
+msgstr  ""
+
+#: lib/core/class-woo-points-admin.php:455
+msgid   "You can use these tokens:"
+msgstr  ""

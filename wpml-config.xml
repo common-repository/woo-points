@@ -1,0 +1,10 @@
+<wpml-config>
+<admin-texts>
+<key name="woocommerce-points_options">
+	<key name="woopoints-points_label" />
+	<key name="woopoints-points_singular_label" />
+	<key name="woopoints-notif_subject" />
+	<key name="woopoints-notif_content" />
+</key>
+</admin-texts>
+</wpml-config>

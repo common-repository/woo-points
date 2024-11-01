@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.woopoints-admin-line {
+	clear:both;
+}
+
+.woopoints-admin-label {
+	min-width: 200px;
+	width: 25%;
+}
+
+/* Edit screens */
+.woopoints_row_field {
+	margin: 20px 0;
+	width: 100%;
+}
